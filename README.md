@@ -1,10 +1,12 @@
-# VM-setup-
-This VM tour covers everything I’ve set up — from what I installed to how I did it. You’ll see tools and configs in action, including Snapshots, IP Scanners, Vulnerability Scanners, Full Disk Encryption (FDE), RBAC, File Encryption, Windows Firewall rules, IPS setup, and Group Policy tweaks
 # 🖥️ VM Security Tour 🔐
+This VM tour covers everything I’ve set up from what I installed to how I did it. You’ll see tools and configs in action, including Snapshots, IP Scanners, Vulnerability Scanners, Full Disk Encryption (FDE), RBAC, File Encryption, Windows Firewall rules, IPS setup, and Group Policy tweaks.
 
-Welcome to my VM Security Tour! This repo complements the video walkthrough of my virtual machine setup. Inside, you'll find everything I’ve configured and installed — with guides on how to do it yourself.
+## 🎥 Video Walkthrough
 
-This isn’t just a basic VM — this is a *fortress in a box*. 💪
+Watch the full configuration tour here:  
+📹 [VM Setup Walkthrough](https://drive.google.com/file/d/1oyGOlBrOj8bHqkXd26WP9tcTmm1oQR6P/view?usp=sharing)
+
+You'll see tools and configs in action, including Snapshots, IP Scanners, Vulnerability Scanners, Full Disk Encryption (FDE), RBAC, File Encryption, Windows Firewall rules, IPS setup, and Group Policy tweaks.
 
 ## 🔧 What’s Included
 
@@ -20,11 +22,6 @@ Here’s a breakdown of what’s been configured:
 - 🛡️ **Intrusion Prevention System (IPS)** – Detect and stop suspicious activity.
 - 🛠️ **Group Policy** – Apply system-wide changes with ease.
 
-## 🎥 Video Walkthrough
-
-Watch the full configuration tour here: https://drive.google.com/file/d/1oyGOlBrOj8bHqkXd26WP9tcTmm1oQR6P/view?usp=sharing  
-
-
 ## 📚 Why This Matters
 
 In the world of cybersecurity, hands-on skills are 🔑.  
@@ -32,8 +29,5 @@ This VM setup helped me learn, break, fix, and secure systems — and now I’m 
 
 ---
 
+> _"Security isn’t a product — it’s a mindset."_ 🧠
 
-
----
-
-> _"Security isn’t a product — it’s a mindset."_ 🧠  
