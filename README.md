@@ -1,5 +1,5 @@
 # 🖥️ VM Security Tour 🔐
-This VM tour covers everything I’ve set up from what I installed to how I did it. You’ll see tools and configs in action, including Snapshots, IP Scanners, Vulnerability Scanners, Full Disk Encryption (FDE), RBAC, File Encryption, Windows Firewall rules, IPS setup, and Group Policy tweaks.
+This VM tour covers everything I’ve set up from what I installed to how I did it. You’ll see tools and configs in action, including Snapshots, IP Scanners, Vulnerability Scanners, Full Disk Encryption (FDE), RBAC, File Encryption, Windows Firewall rules, IPS setup, Content/Web Filtering,  and Group Policy tweaks.
 
 ## 🎥 Video Walkthrough
 
@@ -10,15 +10,17 @@ Watch the full configuration tour here:
 
 Here’s a breakdown of what’s been configured:
 
-- 📸 **Snapshots** – How to take and manage VM snapshots.
-- 🌐 **IP Scanner** – Tools and usage for identifying devices on your network.
-- 🕵️ **Vulnerability Scanner** – Find and fix weaknesses in your system.
-- 🔒 **Full Disk Encryption (FDE)** – Lock down your data at rest.
-- 🧑‍💼 **RBAC (Role-Based Access Control)** – Control who can do what, and where.
-- 🗂️ **File Encryption** – Protect individual files with encryption tools.
-- 🔥 **Windows Firewall** – Configure rules like a pro.
-- 🛡️ **Intrusion Prevention System (IPS)** – Detect and stop suspicious activity.
-- 🛠️ **Group Policy** – Apply system-wide changes with ease.
+- 📸 **Snapshots** 
+- 🌐 **IP Scanner** 
+- 🕵️ **Vulnerability Scanner** 
+- 🔒 **Full Disk Encryption (FDE)** 
+- 🧑‍💼 **RBAC (Role-Based Access Control)**
+- 🗂️ **File Encryption** 
+- 🔥 **Windows Firewall** 
+- 🌐 ** Web/Content Filtering** 
+- 🛡️ **Intrusion Prevention System (IPS)** 
+- 🛠️ **Group Policy** 
+- 
 
 ## 📚 Why This Matters
 
