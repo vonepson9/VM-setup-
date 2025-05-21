@@ -6,8 +6,6 @@ This VM tour covers everything I’ve set up from what I installed to how I did 
 Watch the full configuration tour here:  
 📹 [VM Setup Walkthrough](https://drive.google.com/file/d/1oyGOlBrOj8bHqkXd26WP9tcTmm1oQR6P/view?usp=sharing)
 
-You'll see tools and configs in action, including Snapshots, IP Scanners, Vulnerability Scanners, Full Disk Encryption (FDE), RBAC, File Encryption, Windows Firewall rules, IPS setup, and Group Policy tweaks.
-
 ## 🔧 What’s Included
 
 Here’s a breakdown of what’s been configured:
