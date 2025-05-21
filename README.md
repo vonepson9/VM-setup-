@@ -1,5 +1,5 @@
 # VM-setup-
-This VM tour includes everything that ive configured and installed including how to do other things. Snapshots, IP Scanner, Vulnarbility Scanner,FDE,RBAC,File Encryption,Windows Firewall,IPS, &amp; Group Policy
+This VM tour covers everything I’ve set up — from what I installed to how I did it. You’ll see tools and configs in action, including Snapshots, IP Scanners, Vulnerability Scanners, Full Disk Encryption (FDE), RBAC, File Encryption, Windows Firewall rules, IPS setup, and Group Policy tweaks
 # 🖥️ VM Security Tour 🔐
 
 Welcome to my VM Security Tour! This repo complements the video walkthrough of my virtual machine setup. Inside, you'll find everything I’ve configured and installed — with guides on how to do it yourself.
