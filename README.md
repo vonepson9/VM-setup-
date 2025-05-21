@@ -22,8 +22,8 @@ Here’s a breakdown of what’s been configured:
 
 ## 🎥 Video Walkthrough
 
-Watch the full configuration tour here: *[Insert Link]*  
-(Trust me, it’s worth it — I explain everything step-by-step.)
+Watch the full configuration tour here: https://drive.google.com/file/d/1oyGOlBrOj8bHqkXd26WP9tcTmm1oQR6P/view?usp=sharing  
+
 
 ## 📚 Why This Matters
 
@@ -32,8 +32,7 @@ This VM setup helped me learn, break, fix, and secure systems — and now I’m 
 
 ---
 
-**Questions or suggestions?**  
-Feel free to open an issue or drop a comment on the video!
+
 
 ---
 
