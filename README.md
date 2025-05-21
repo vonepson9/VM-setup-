@@ -20,7 +20,7 @@ Here’s a breakdown of what’s been configured:
 - 🌐 ** Web/Content Filtering** 
 - 🛡️ **Intrusion Prevention System (IPS)** 
 - 🛠️ **Group Policy** 
-- 
+  
 
 ## 📚 Why This Matters
 
