@@ -1,4 +1,4 @@
-# 🖥️ VM Security Tour 🔐
+# 🖥️ VM Security Tour with RDP tutorial🔐
 
 This VM tour covers everything I’ve set up from what I installed to how I did it. You’ll see tools and configs in action, including Snapshots, IP Scanners, Vulnerability Scanners, Full Disk Encryption (FDE), RBAC, File Encryption, Windows Firewall rules, IPS setup, Content/Web Filtering, and Group Policy tweaks.
 
