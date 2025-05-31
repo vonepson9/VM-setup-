@@ -7,7 +7,7 @@ This VM tour covers everything I’ve set up from what I installed to how I did 
 ## 🎥 Video Walkthrough
 
 Watch the full configuration tour here:  
-📹 [VM Setup Walkthrough](https://drive.google.com/file/d/1oyGOlBrOj8bHqkXd26WP9tcTmm1oQR6P/view?usp=sharing)
+_📹 VM Setup Walkthrough_ https://drive.google.com/file/d/1oyGOlBrOj8bHqkXd26WP9tcTmm1oQR6P/view?usp=sharing
 
 ---
 
