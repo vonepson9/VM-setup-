@@ -2,6 +2,13 @@
 > Deep dive into securing your Windows VM with all the pro moves  
 > 🔥 Snapshots, scanners, encryption, firewalls & policies, oh my!
 
+## 🎥 Video Walkthroughs
+
+- 🔹 [**Full VM Setup Tour (Google Drive)**](https://drive.google.com/file/d/1oyGOlBrOj8bHqkXd26WP9tcTmm1oQR6P/view?usp=sharing)  
+- 🔹 [**RDP Setup Walkthrough (Loom)**](https://www.loom.com/share/9d31e7cdae36471aa1946e6f932a8d41?sid=51cf6ea6-a3eb-4dca-9608-811ae52b6798)
+
+---
+
 ![OS](https://img.shields.io/badge/Windows_10_Pro-blue?logo=windows&logoColor=white)
 ![Tools](https://img.shields.io/badge/Snapshots-lightgrey?logo=virtualbox&logoColor=black)
 ![Tools](https://img.shields.io/badge/IP_Scanner-blue?logo=nmap&logoColor=white)
@@ -13,14 +20,7 @@
 ![Tools](https://img.shields.io/badge/Web_Content_Filtering-green?logo=cloudflare&logoColor=white)
 ![Tools](https://img.shields.io/badge/IPS-teal?logo=snort&logoColor=white)
 ![Tools](https://img.shields.io/badge/Group_Policy-darkblue?logo=microsoft&logoColor=white)
-
----
-
-## 🎥 Video Walkthrough
-
-Watch the full configuration tour here:  
-_📹 VM Setup Walkthrough_  
-[Google Drive Link](https://drive.google.com/file/d/1oyGOlBrOj8bHqkXd26WP9tcTmm1oQR6P/view?usp=sharing)
+![Tools](https://img.shields.io/badge/RDP-lightblue?logo=microsoft&logoColor=white)
 
 ---
 
@@ -36,6 +36,7 @@ _📹 VM Setup Walkthrough_
 - 🌐 **Web/Content Filtering** — Block sketchy websites before they even load  
 - 🛡️ **Intrusion Prevention System (IPS)** — Detect & stop attacks in real-time  
 - 🛠️ **Group Policy Tweaks** — Enforce security settings network-wide  
+- 📡 **Remote Desktop Protocol (RDP)** — Secure remote access setup and management  
 
 ---
 
@@ -50,7 +51,6 @@ Now you get the blueprint to level up your own game.
 ## 📝 RDP Setup Guide
 
 Remote Desktop Protocol (RDP) steps  
-🎥 [Watch the RDP Setup Walkthrough](https://www.loom.com/share/9d31e7cdae36471aa1946e6f932a8d41?sid=51cf6ea6-a3eb-4dca-9608-811ae52b6798)  
 
 ### ✅ Steps to Enable RDP on Windows VM:
 
@@ -77,12 +77,10 @@ Remote Desktop Protocol (RDP) steps
 
 - Use strong, unique passwords for RDP accounts  
 - Enable Network Level Authentication (NLA) on RDP  
-- Regularly snapshots before major changes  
+- Regularly snapshot before major changes  
 - Keep vulnerability scanners running for fresh finds  
 - Always encrypt sensitive data, no exceptions
 
 ---
 
 > 💡 _Make it secure. Make it yours. Lock it down like a fortress._  
-
-
