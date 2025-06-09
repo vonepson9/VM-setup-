@@ -1,8 +1,8 @@
-# 🖥️ VM Security Tour with RDP Tutorial 🔐  
+#  VM Security Tour with RDP Tutorial   
 > Comprehensive walkthrough of securing a Windows VM environment  
 > Includes setup of snapshots, encryption, firewall rules, and remote access  
 
-## 🎥 Video Walkthroughs
+##  Video Walkthroughs
 
 - 🔹 [**Full VM Setup Tour (Google Drive)**](https://drive.google.com/file/d/1oyGOlBrOj8bHqkXd26WP9tcTmm1oQR6P/view?usp=sharing)  
 - 🔹 [**RDP Setup Walkthrough (Loom)**](https://www.loom.com/share/9d31e7cdae36471aa1946e6f932a8d41?sid=51cf6ea6-a3eb-4dca-9608-811ae52b6798)
@@ -24,23 +24,23 @@
 
 ---
 
-## 🔧 Included Configurations
+##  Included Configurations
 
-- 📸 **Snapshots:** Efficiently manage VM states for quick recovery  
-- 🌐 **IP Scanner:** Identify active hosts and potential vulnerabilities  
-- 🕵️ **Vulnerability Scanner:** Proactively detect security weaknesses  
-- 🔒 **Full Disk Encryption (FDE):** Protect data at rest with encryption  
-- 🧑‍💼 **Role-Based Access Control (RBAC):** Enforce least privilege access  
-- 🗂️ **File Encryption:** Secure sensitive files with encryption protocols  
-- 🔥 **Windows Firewall:** Manage inbound/outbound traffic effectively  
-- 🌐 **Web/Content Filtering:** Restrict access to unsafe web content  
-- 🛡️ **Intrusion Prevention System (IPS):** Detect and mitigate threats in real-time  
-- 🛠️ **Group Policy Management:** Apply consistent security policies across the VM environment  
-- 📡 **Remote Desktop Protocol (RDP):** Secure remote access configuration and management  
+-  **Snapshots:** Efficiently manage VM states for quick recovery  
+-  **IP Scanner:** Identify active hosts and potential vulnerabilities  
+-  **Vulnerability Scanner:** Proactively detect security weaknesses  
+-  **Full Disk Encryption (FDE):** Protect data at rest with encryption  
+-  **Role-Based Access Control (RBAC):** Enforce least privilege access  
+-  **File Encryption:** Secure sensitive files with encryption protocols  
+-  **Windows Firewall:** Manage inbound/outbound traffic effectively  
+-  **Web/Content Filtering:** Restrict access to unsafe web content  
+-  **Intrusion Prevention System (IPS):** Detect and mitigate threats in real-time  
+-  **Group Policy Management:** Apply consistent security policies across the VM environment  
+-  **Remote Desktop Protocol (RDP):** Secure remote access configuration and management  
 
 ---
 
-## 📝 RDP Setup Guide
+##  RDP Setup Guide
 
 ### Steps to Enable RDP on Windows VM:
 
@@ -62,7 +62,7 @@
 
 ---
 
-## 🔐 Security Recommendations
+##  Security Recommendations
 
 - Use complex, unique passwords for all RDP-enabled accounts  
 - Enable Network Level Authentication (NLA) for RDP sessions  
